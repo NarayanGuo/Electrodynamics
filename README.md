@@ -1,2 +1,2 @@
 # Electrodynamics
-Electrodynamics by NarayanGuo
+There is lecture note about Electrodynamics by NarayanGuo.
